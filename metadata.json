@@ -1,0 +1,6 @@
+{
+  "name": "Prism Deck Studio",
+  "description": "Create stunning, colorful designer presentations from pictures, sketches, and notes with live editing, rich themes, and presenter mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
